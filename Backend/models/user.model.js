@@ -1,10 +1,10 @@
 import mongoose from "mongoose";
 
-const studentSchema = new mongoose.Schema({
+const userSchema = new mongoose.Schema({
     fullname: {
         type: String,
         required: true
-    },
+    }, 
     email: {
         type: String,
         required: true,
@@ -41,4 +41,4 @@ const studentSchema = new mongoose.Schema({
     ],
 }, { timestamps: true });
 
-export const User = mongoose.model('User', userSchemna);
+export const User = mongoose.model('User', userSchema);
