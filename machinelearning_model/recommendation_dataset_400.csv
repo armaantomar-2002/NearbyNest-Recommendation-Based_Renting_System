@@ -1,0 +1,401 @@
+Rent (INR),Location,Distance from College (km)
+7500,Subhash Nagar,4.1
+5500,Karanpur,1.1
+7000,"Clement Town, Dehradun",0.8
+7500,Dharampur,3.0
+5000,"Lane 10, Post office road",3.5
+13000,"Clement Town, Dehradun",3.7
+11000,Vasant Vihar,4.7
+4500,Ballupur,0.4
+11500,Sahastradhara,2.3
+6000,Ballupur,4.2
+13000,Race Course,3.2
+8000,"Lane 10, Post office road",2.4
+12000,Patel Nagar,2.6
+12500,Premnagar,2.1
+4500,Patel Nagar,0.3
+10000,"Lane-3, Clement Town, Dehradun",1.6
+12500,Ballupur,1.2
+12000,Jakhan,1.0
+8000,"Lane 2, Clement Town, Dehradun",4.6
+4000,"Lane 10, Post office road",1.0
+10000,Rajpur Road,4.5
+7500,Patel Nagar,2.9
+6500,Dalanwala,1.8
+3500,Ballupur,1.5
+5000,"Lane-3, Clement Town, Dehradun",3.6
+9000,Patel Nagar,4.6
+4500,Premnagar,3.0
+9500,Dalanwala,4.0
+3500,Vasant Vihar,4.6
+5000,"Lane 2, Clement Town, Dehradun",1.4
+4000,Vasant Vihar,0.4
+12000,Dalanwala,1.0
+8500,Jakhan,2.7
+5500,"Lane 2, Clement Town, Dehradun",0.9
+13000,Race Course,2.8
+10500,Jakhan,3.1
+12500,Vasant Vihar,0.4
+12000,Subhash Nagar,1.3
+13000,Vasant Vihar,4.8
+12000,Vasant Vihar,0.9
+13000,"Lane 10, Post office road",0.4
+9000,Dharampur,3.1
+7500,"Clement Town, Dehradun",3.8
+10000,Shubhash Nagar,0.4
+5500,Jakhan,4.3
+12000,Rajpur Road,0.6
+13000,Dalanwala,2.1
+7500,Karanpur,2.8
+10500,"Lane 2, Clement Town, Dehradun",1.3
+9500,Ballupur,2.4
+7000,Dalanwala,3.3
+9000,Shubhash Nagar,4.1
+12000,Race Course,3.3
+12500,Vasant Vihar,0.2
+12000,"Lane no 2C, Post office road, Clement Town, Dehradun",2.0
+5500,"Lane-3, Clement Town, Dehradun",2.3
+12000,Sahastradhara,0.7
+8000,Race Course,4.2
+4000,Ballupur,4.5
+6000,Shubhash Nagar,0.3
+7000,Patel Nagar,2.9
+3500,Vasant Vihar,3.8
+9000,Vasant Vihar,3.9
+12500,Karanpur,3.1
+11000,"Clement Town, Post office road, Lane no 10",1.5
+5500,"Lane-3, Clement Town, Dehradun",3.3
+5500,Dharampur,4.4
+6500,Dalanwala,3.0
+7000,Rajpur Road,2.5
+8500,Sahastradhara,3.5
+7500,Sahastradhara,4.5
+5500,Sahastradhara,2.4
+8500,Dharampur,3.4
+6500,"Clement Town, Dehradun",2.1
+8000,Subhash Nagar,3.8
+9500,Subhash Nagar,3.4
+8500,Kaulagarh,4.2
+4000,Ballupur,1.6
+8500,Sahastradhara,4.3
+4500,Rajpur Road,1.4
+12000,"Clement Town, Dehradun",0.4
+4000,"Lane no 2C, Post office road, Clement Town, Dehradun",3.3
+4000,Race Course,3.9
+4000,"Lane 2, Clement Town, Dehradun",0.8
+6500,"Lane 2, Clement Town, Dehradun",3.2
+9000,Race Course,1.9
+8000,"Lane no 2C, Post office road, Clement Town, Dehradun",1.2
+5500,Karanpur,0.2
+6000,Jakhan,1.1
+6000,"Clement Town, Post office road, Lane no 10",2.3
+9500,"Lane 10, Post office road",4.9
+5500,Sahastradhara,0.7
+9000,"Lane-3, Clement Town, Dehradun",0.6
+12000,Shubhash Nagar,0.7
+11500,Karanpur,3.2
+5000,Kaulagarh,2.9
+5000,Patel Nagar,1.3
+6000,"Lane no 2C, Post office road, Clement Town, Dehradun",4.6
+12000,"Lane 10, Post office road",0.6
+3000,"Lane 10, Post office road",4.9
+13000,Premnagar,3.9
+12500,Premnagar,0.6
+9500,"Lane 10, Post office road",1.8
+10000,Shubhash Nagar,0.8
+10000,Sahastradhara,2.2
+4000,Premnagar,1.6
+10000,"Clement Town, Dehradun",4.5
+9500,"Lane-3, Clement Town, Dehradun",1.4
+8500,Premnagar,3.5
+3500,"Clement Town, Post office road, Lane no 10",2.9
+8500,Kaulagarh,1.6
+6500,Subhash Nagar,4.1
+12500,Shubhash Nagar,3.2
+4000,"Lane 10, Post office road",2.7
+12500,Dalanwala,4.9
+7500,Patel Nagar,3.4
+4500,Subhash Nagar,0.6
+8500,"Clement Town, Dehradun",3.5
+6000,Vasant Vihar,4.9
+9000,Ballupur,3.1
+13000,Dalanwala,2.2
+3500,Sahastradhara,1.6
+12500,"Clement Town, Dehradun",4.1
+7500,Kaulagarh,2.6
+10000,Jakhan,1.5
+7500,"Lane no 2C, Post office road, Clement Town, Dehradun",3.1
+10500,Shubhash Nagar,4.7
+12500,"Lane no 2C, Post office road, Clement Town, Dehradun",1.3
+11000,Jakhan,0.4
+9500,Jakhan,0.4
+6000,Kaulagarh,4.5
+8500,Ballupur,0.4
+12500,Race Course,3.7
+7500,"Clement Town, Dehradun",0.8
+7500,Patel Nagar,4.1
+4000,"Lane 2, Clement Town, Dehradun",0.9
+9000,Race Course,4.9
+8000,"Lane 10, Post office road",1.2
+13000,Premnagar,3.1
+9000,Race Course,0.7
+10500,"Lane-3, Clement Town, Dehradun",2.5
+5500,Dharampur,2.2
+12000,Shubhash Nagar,1.0
+4500,Dharampur,4.0
+13000,Sahastradhara,2.2
+7500,"Lane-3, Clement Town, Dehradun",4.1
+9500,"Clement Town, Dehradun",4.7
+5500,Karanpur,2.8
+10000,Dharampur,4.8
+11500,Ballupur,1.6
+12000,Rajpur Road,1.8
+11000,"Clement Town, Dehradun",3.5
+3500,"Lane 2, Clement Town, Dehradun",2.5
+11500,Shubhash Nagar,3.8
+13000,Ballupur,3.4
+7000,Ballupur,1.6
+9500,Karanpur,3.2
+9500,"Clement Town, Dehradun",2.9
+6500,"Clement Town, Dehradun",1.5
+10000,Ballupur,3.0
+7000,Premnagar,4.3
+10000,"Clement Town, Dehradun",3.5
+3000,"Lane 2, Clement Town, Dehradun",1.4
+12000,Karanpur,1.3
+10500,Ballupur,1.0
+12000,Rajpur Road,0.3
+9000,Dalanwala,2.8
+3000,"Lane no 2C, Post office road, Clement Town, Dehradun",4.1
+5500,Subhash Nagar,1.5
+12500,Rajpur Road,3.6
+12500,Vasant Vihar,1.5
+7000,"Clement Town, Post office road, Lane no 10",1.6
+7000,Premnagar,2.6
+4500,Sahastradhara,0.8
+4000,"Lane 10, Post office road",0.9
+9500,Shubhash Nagar,0.4
+11000,Vasant Vihar,3.9
+3000,Sahastradhara,2.8
+4000,Patel Nagar,3.5
+9500,Rajpur Road,4.4
+5000,Jakhan,0.6
+4500,Vasant Vihar,2.1
+9000,Patel Nagar,3.5
+8000,Dharampur,2.9
+6500,Kaulagarh,1.4
+7000,"Lane-3, Clement Town, Dehradun",4.7
+13000,"Lane no 2C, Post office road, Clement Town, Dehradun",3.6
+13000,"Lane no 2C, Post office road, Clement Town, Dehradun",1.1
+12500,"Clement Town, Post office road, Lane no 10",3.7
+7000,"Clement Town, Post office road, Lane no 10",4.0
+13000,Race Course,2.5
+5000,"Clement Town, Dehradun",5.0
+9000,Race Course,0.3
+7000,"Lane 10, Post office road",4.2
+12000,"Lane no 2C, Post office road, Clement Town, Dehradun",2.1
+3500,Race Course,4.6
+4500,Vasant Vihar,2.7
+4500,Kaulagarh,4.2
+10000,Kaulagarh,4.2
+7000,Patel Nagar,2.1
+8000,"Lane 2, Clement Town, Dehradun",4.3
+11500,"Lane 2, Clement Town, Dehradun",2.6
+10000,Shubhash Nagar,3.3
+11500,Sahastradhara,4.2
+11000,Dalanwala,3.2
+4500,Kaulagarh,0.6
+3500,Dharampur,4.2
+3500,"Lane 10, Post office road",2.0
+12500,"Lane 10, Post office road",2.4
+8000,"Clement Town, Dehradun",3.4
+5000,"Lane-3, Clement Town, Dehradun",4.1
+7000,Sahastradhara,3.5
+6500,"Lane 10, Post office road",4.1
+12500,Jakhan,2.0
+7000,"Lane 10, Post office road",2.9
+4000,Sahastradhara,1.3
+8500,Shubhash Nagar,2.2
+3000,"Clement Town, Dehradun",3.8
+3500,"Lane no 2C, Post office road, Clement Town, Dehradun",2.3
+10000,"Lane no 2C, Post office road, Clement Town, Dehradun",4.5
+6000,Race Course,5.0
+7000,Dharampur,3.4
+12500,Shubhash Nagar,0.5
+6500,Vasant Vihar,2.4
+12000,Jakhan,3.5
+11000,Kaulagarh,0.2
+8000,"Lane no 2C, Post office road, Clement Town, Dehradun",1.0
+3500,Vasant Vihar,4.9
+5000,Subhash Nagar,3.7
+12500,Dharampur,0.3
+6500,"Lane no 2C, Post office road, Clement Town, Dehradun",2.4
+12000,Sahastradhara,1.3
+6500,Subhash Nagar,1.2
+5000,Shubhash Nagar,2.2
+8000,Premnagar,1.9
+3000,"Lane 10, Post office road",2.4
+6500,Dharampur,2.8
+7000,"Lane no 2C, Post office road, Clement Town, Dehradun",4.7
+13000,"Lane 10, Post office road",4.3
+9500,Patel Nagar,0.6
+7000,"Clement Town, Dehradun",2.0
+10500,"Lane-3, Clement Town, Dehradun",2.4
+5500,Kaulagarh,2.1
+5000,Ballupur,0.6
+7000,Rajpur Road,2.2
+5000,"Lane-3, Clement Town, Dehradun",1.1
+9500,"Lane-3, Clement Town, Dehradun",2.7
+9000,"Clement Town, Dehradun",1.2
+11500,Premnagar,4.9
+5000,Ballupur,3.9
+11000,Dharampur,1.5
+5000,Shubhash Nagar,0.4
+10000,"Clement Town, Post office road, Lane no 10",2.2
+6000,"Clement Town, Post office road, Lane no 10",4.9
+6000,Premnagar,3.6
+8000,"Lane 10, Post office road",2.6
+3500,Shubhash Nagar,1.1
+7000,"Lane no 2C, Post office road, Clement Town, Dehradun",4.1
+12500,Subhash Nagar,0.6
+11000,Patel Nagar,1.0
+11500,Dharampur,0.9
+12000,Dalanwala,1.0
+6500,Sahastradhara,0.3
+12500,Shubhash Nagar,1.0
+8500,Shubhash Nagar,1.6
+4000,Race Course,4.2
+5500,Ballupur,3.9
+10500,"Clement Town, Dehradun",2.3
+10500,Ballupur,0.7
+6000,Dharampur,2.2
+8500,Premnagar,0.4
+9000,Ballupur,2.2
+9000,"Lane 10, Post office road",1.6
+4000,Jakhan,4.8
+12000,Rajpur Road,0.9
+11500,Rajpur Road,3.1
+3500,Patel Nagar,0.6
+5000,Dalanwala,0.7
+12000,"Lane-3, Clement Town, Dehradun",2.4
+6000,"Clement Town, Dehradun",4.2
+12000,Sahastradhara,4.8
+11500,Dalanwala,0.3
+9000,"Clement Town, Dehradun",3.4
+9000,Shubhash Nagar,1.5
+7000,"Lane no 2C, Post office road, Clement Town, Dehradun",0.8
+5000,Shubhash Nagar,4.9
+10500,Patel Nagar,4.5
+3000,"Lane 2, Clement Town, Dehradun",0.5
+11000,Karanpur,3.4
+12000,Premnagar,1.6
+8000,"Clement Town, Dehradun",1.9
+9500,Race Course,2.2
+6000,Rajpur Road,2.0
+10500,Premnagar,4.5
+7000,"Lane no 2C, Post office road, Clement Town, Dehradun",4.0
+12500,Jakhan,2.7
+11500,"Lane 2, Clement Town, Dehradun",3.6
+10500,Ballupur,2.4
+12500,"Lane 10, Post office road",1.9
+10500,"Lane 2, Clement Town, Dehradun",1.0
+11000,Ballupur,4.3
+10500,Karanpur,4.8
+13000,Ballupur,1.9
+9500,"Lane-3, Clement Town, Dehradun",1.6
+10000,Subhash Nagar,1.5
+12000,Premnagar,1.7
+3500,Sahastradhara,1.1
+6500,Dalanwala,1.7
+13000,Shubhash Nagar,0.3
+4000,Premnagar,2.2
+4500,Patel Nagar,3.3
+11500,Rajpur Road,4.1
+10500,Ballupur,2.1
+6500,"Lane no 2C, Post office road, Clement Town, Dehradun",0.5
+6000,Dharampur,4.1
+4000,Kaulagarh,4.6
+8000,Karanpur,4.6
+3000,"Lane-3, Clement Town, Dehradun",4.1
+5500,Dharampur,4.8
+7500,Vasant Vihar,4.5
+4500,Dalanwala,2.1
+8000,Dharampur,0.5
+6500,Vasant Vihar,4.2
+12500,"Lane-3, Clement Town, Dehradun",4.5
+8000,Dharampur,1.9
+5000,Vasant Vihar,3.5
+10000,"Lane-3, Clement Town, Dehradun",4.0
+5000,"Clement Town, Dehradun",4.2
+3500,Rajpur Road,2.1
+8000,"Clement Town, Post office road, Lane no 10",3.4
+8000,Jakhan,0.7
+4000,Dharampur,2.9
+13000,"Lane-3, Clement Town, Dehradun",1.8
+8500,Shubhash Nagar,3.2
+12500,Premnagar,1.5
+11500,"Clement Town, Post office road, Lane no 10",1.2
+9000,Premnagar,1.3
+12500,"Lane 2, Clement Town, Dehradun",0.9
+10500,Shubhash Nagar,3.1
+3000,Dalanwala,4.5
+8000,Sahastradhara,2.2
+11500,Karanpur,3.3
+4500,"Clement Town, Dehradun",3.7
+12500,"Lane no 2C, Post office road, Clement Town, Dehradun",4.4
+9000,Dalanwala,4.3
+10000,Kaulagarh,4.6
+8000,Kaulagarh,1.3
+11500,Patel Nagar,0.3
+8500,"Lane 2, Clement Town, Dehradun",1.0
+6500,Vasant Vihar,3.0
+10500,Jakhan,4.1
+3000,Ballupur,1.2
+12000,Jakhan,2.7
+4000,"Lane no 2C, Post office road, Clement Town, Dehradun",1.3
+4500,"Lane-3, Clement Town, Dehradun",1.4
+9000,Rajpur Road,4.1
+3000,Dalanwala,2.0
+8000,Dalanwala,1.2
+10500,Kaulagarh,1.1
+8000,"Clement Town, Post office road, Lane no 10",2.8
+7500,Jakhan,0.5
+4000,Karanpur,1.8
+11000,Patel Nagar,4.2
+4000,"Clement Town, Post office road, Lane no 10",4.2
+9500,Race Course,0.7
+11000,"Clement Town, Dehradun",0.3
+4000,Vasant Vihar,3.2
+10500,Patel Nagar,4.8
+6000,Ballupur,2.9
+12500,Ballupur,4.9
+8500,"Lane 10, Post office road",2.5
+9500,"Lane no 2C, Post office road, Clement Town, Dehradun",2.6
+11000,Jakhan,1.7
+11000,"Lane 10, Post office road",0.6
+9500,Shubhash Nagar,0.2
+6000,Dalanwala,4.7
+13000,Premnagar,1.8
+4000,"Clement Town, Post office road, Lane no 10",3.9
+11000,Kaulagarh,4.1
+11500,"Lane 10, Post office road",1.5
+10000,Race Course,0.4
+6500,"Lane 2, Clement Town, Dehradun",4.8
+11500,Dharampur,4.0
+4500,Shubhash Nagar,1.4
+4500,"Clement Town, Dehradun",0.2
+5500,"Clement Town, Dehradun",4.4
+5500,Jakhan,2.5
+6500,Shubhash Nagar,1.9
+6000,Dalanwala,2.0
+10500,Rajpur Road,3.8
+12500,"Clement Town, Dehradun",3.7
+8500,Dharampur,1.1
+12000,"Lane 10, Post office road",0.5
+8500,Karanpur,4.8
+3500,Vasant Vihar,3.8
+11500,Jakhan,2.0
+5500,Ballupur,1.7
+3000,Vasant Vihar,4.9
+8500,Sahastradhara,1.4
+11000,Ballupur,3.3
